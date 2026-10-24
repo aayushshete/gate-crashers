@@ -195,8 +195,10 @@ matplotlib
 
 ## Author
 
-**Aayush** — TUHH, Motion Planning & Control (TE7864)  
-Supervised by Prof. Faulwasser
+**Aayush Shete** — Symbiosis Institute of Technology, Robotics and Automation
+**Ankita Mehta** — Symbiosis Institute of Technology, Robotics and Automation
+**Sanjana Panicker** — Symbiosis Institute of Technology, Robotics and Automation
+Supervised by Dr. Anuj Dattar
 
 ---
 
